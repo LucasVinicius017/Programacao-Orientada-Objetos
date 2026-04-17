@@ -1,0 +1,14 @@
+C:\Users\lucas\Downloads\LUCAS\Orientada a Objeto\BancoComposicao\bin\Debug\net8.0\BancoComposicao.exe
+C:\Users\lucas\Downloads\LUCAS\Orientada a Objeto\BancoComposicao\bin\Debug\net8.0\BancoComposicao.deps.json
+C:\Users\lucas\Downloads\LUCAS\Orientada a Objeto\BancoComposicao\bin\Debug\net8.0\BancoComposicao.runtimeconfig.json
+C:\Users\lucas\Downloads\LUCAS\Orientada a Objeto\BancoComposicao\bin\Debug\net8.0\BancoComposicao.dll
+C:\Users\lucas\Downloads\LUCAS\Orientada a Objeto\BancoComposicao\bin\Debug\net8.0\BancoComposicao.pdb
+C:\Users\lucas\Downloads\LUCAS\Orientada a Objeto\BancoComposicao\obj\Debug\net8.0\BancoComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\LUCAS\Orientada a Objeto\BancoComposicao\obj\Debug\net8.0\BancoComposicao.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\LUCAS\Orientada a Objeto\BancoComposicao\obj\Debug\net8.0\BancoComposicao.AssemblyInfo.cs
+C:\Users\lucas\Downloads\LUCAS\Orientada a Objeto\BancoComposicao\obj\Debug\net8.0\BancoComposicao.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\LUCAS\Orientada a Objeto\BancoComposicao\obj\Debug\net8.0\BancoComposicao.dll
+C:\Users\lucas\Downloads\LUCAS\Orientada a Objeto\BancoComposicao\obj\Debug\net8.0\refint\BancoComposicao.dll
+C:\Users\lucas\Downloads\LUCAS\Orientada a Objeto\BancoComposicao\obj\Debug\net8.0\BancoComposicao.pdb
+C:\Users\lucas\Downloads\LUCAS\Orientada a Objeto\BancoComposicao\obj\Debug\net8.0\BancoComposicao.genruntimeconfig.cache
+C:\Users\lucas\Downloads\LUCAS\Orientada a Objeto\BancoComposicao\obj\Debug\net8.0\ref\BancoComposicao.dll
